@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019941117037",
+    "firebase_url": "https://fire-system-491cd-default-rtdb.firebaseio.com",
+    "project_id": "fire-system-491cd",
+    "storage_bucket": "fire-system-491cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019941117037:android:c6f6dcf61b3b9b7a423364",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019941117037-ecpvg09kgoe9k8tr7e6h8u05kqkt511o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire",
+            "certificate_hash": "450deecc363b42573ed62d71d6370e75089e64c4"
+          }
+        },
+        {
+          "client_id": "1019941117037-apnmmgau1avsdvhqt3l1kn187plg3nj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0O2ivADeev6_5Xn33nB74k8wG5OeELYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019941117037-apnmmgau1avsdvhqt3l1kn187plg3nj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
